@@ -1,0 +1,11 @@
+C:\Users\Airamek\Desktop\testcs\Client\bin\x64\Release\net452\testcs.Client.net.dll
+C:\Users\Airamek\Desktop\testcs\Client\bin\x64\Release\net452\CitizenFX.Core.Client.dll
+C:\Users\Airamek\Desktop\testcs\Client\bin\x64\Release\net452\testcs.Shared.dll
+C:\Users\Airamek\Desktop\testcs\Client\bin\x64\Release\net452\testcs.Shared.pdb
+C:\Users\Airamek\Desktop\testcs\Client\obj\x64\Release\net452\testcs.Client.csproj.AssemblyReference.cache
+C:\Users\Airamek\Desktop\testcs\Client\obj\x64\Release\net452\testcs.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Airamek\Desktop\testcs\Client\obj\x64\Release\net452\testcs.Client.AssemblyInfoInputs.cache
+C:\Users\Airamek\Desktop\testcs\Client\obj\x64\Release\net452\testcs.Client.AssemblyInfo.cs
+C:\Users\Airamek\Desktop\testcs\Client\obj\x64\Release\net452\testcs.Client.csproj.CoreCompileInputs.cache
+C:\Users\Airamek\Desktop\testcs\Client\obj\x64\Release\net452\testcs.Client.csproj.CopyComplete
+C:\Users\Airamek\Desktop\testcs\Client\obj\x64\Release\net452\testcs.Client.net.dll

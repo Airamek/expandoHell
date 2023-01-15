@@ -1,0 +1,5 @@
+C:\Users\Airamek\Desktop\testcs\Server\bin\x64\Release\net452\publish\testcs.Server.net.dll
+C:\Users\Airamek\Desktop\testcs\Server\bin\x64\Release\net452\publish\testcs.Server.net.pdb
+C:\Users\Airamek\Desktop\testcs\Server\bin\x64\Release\net452\publish\CitizenFX.Core.Server.dll
+C:\Users\Airamek\Desktop\testcs\Server\bin\x64\Release\net452\publish\testcs.Shared.dll
+C:\Users\Airamek\Desktop\testcs\Server\bin\x64\Release\net452\publish\testcs.Shared.pdb

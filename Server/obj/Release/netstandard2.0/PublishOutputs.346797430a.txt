@@ -1,0 +1,4 @@
+C:\Users\Airamek\Desktop\testcs\Server\bin\Release\netstandard2.0\publish\testcs.Server.net.dll
+C:\Users\Airamek\Desktop\testcs\Server\bin\Release\netstandard2.0\publish\testcs.Server.deps.json
+C:\Users\Airamek\Desktop\testcs\Server\bin\Release\netstandard2.0\publish\testcs.Server.net.pdb
+C:\Users\Airamek\Desktop\testcs\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll

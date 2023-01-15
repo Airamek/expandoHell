@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSDPy4gKYIHfqBQ64sicjUpZznTIMuuN1fBFpgRozGcECoTGYjt9yIvEdCaDca4Cip1xrGA+b8JB6QNniL1G0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Airamek\\Desktop\\testcs\\Server\\testcs.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Airamek\\.nuget\\packages\\citizenfx.core.server\\1.0.6210\\citizenfx.core.server.1.0.6210.nupkg.sha512",
+    "C:\\Users\\Airamek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Airamek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

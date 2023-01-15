@@ -1,0 +1,13 @@
+C:\Users\Airamek\Desktop\testcs\Server\bin\Debug\netstandard2.0\testcs.Server.deps.json
+C:\Users\Airamek\Desktop\testcs\Server\bin\Debug\netstandard2.0\testcs.Server.net.dll
+C:\Users\Airamek\Desktop\testcs\Server\bin\Debug\netstandard2.0\testcs.Server.net.pdb
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.csproj.AssemblyReference.cache
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.AssemblyInfoInputs.cache
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.AssemblyInfo.cs
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.csproj.CoreCompileInputs.cache
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.net.dll
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.net.pdb
+C:\Users\Airamek\Desktop\testcs\Server\bin\Debug\netstandard2.0\testcs.Shared.dll
+C:\Users\Airamek\Desktop\testcs\Server\bin\Debug\netstandard2.0\testcs.Shared.pdb
+C:\Users\Airamek\Desktop\testcs\Server\obj\Debug\netstandard2.0\testcs.Server.csproj.CopyComplete

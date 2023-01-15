@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QMaGw9BSMa0ezlti9urpre5WBS/lsJm1ySGpcejZ+DKUiG4R2OsnmdHVbwNqjbzUoqCczdaqsNnOPM4htg+U+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Airamek\\Desktop\\testcs\\Client\\testcs.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Airamek\\.nuget\\packages\\citizenfx.core.client\\1.0.6210\\citizenfx.core.client.1.0.6210.nupkg.sha512",
+    "C:\\Users\\Airamek\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

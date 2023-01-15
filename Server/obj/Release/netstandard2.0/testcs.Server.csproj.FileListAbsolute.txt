@@ -1,0 +1,10 @@
+C:\Users\Airamek\Desktop\testcs\Server\bin\Release\netstandard2.0\testcs.Server.deps.json
+C:\Users\Airamek\Desktop\testcs\Server\bin\Release\netstandard2.0\testcs.Server.net.dll
+C:\Users\Airamek\Desktop\testcs\Server\bin\Release\netstandard2.0\testcs.Server.net.pdb
+C:\Users\Airamek\Desktop\testcs\Server\obj\Release\netstandard2.0\testcs.Server.csproj.AssemblyReference.cache
+C:\Users\Airamek\Desktop\testcs\Server\obj\Release\netstandard2.0\testcs.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Airamek\Desktop\testcs\Server\obj\Release\netstandard2.0\testcs.Server.AssemblyInfoInputs.cache
+C:\Users\Airamek\Desktop\testcs\Server\obj\Release\netstandard2.0\testcs.Server.AssemblyInfo.cs
+C:\Users\Airamek\Desktop\testcs\Server\obj\Release\netstandard2.0\testcs.Server.csproj.CoreCompileInputs.cache
+C:\Users\Airamek\Desktop\testcs\Server\obj\Release\netstandard2.0\testcs.Server.net.dll
+C:\Users\Airamek\Desktop\testcs\Server\obj\Release\netstandard2.0\testcs.Server.net.pdb

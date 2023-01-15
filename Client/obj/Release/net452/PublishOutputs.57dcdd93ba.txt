@@ -1,0 +1,2 @@
+C:\Users\Airamek\Desktop\testcs\Client\bin\Release\net452\publish\testcs.Client.net.dll
+C:\Users\Airamek\Desktop\testcs\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
